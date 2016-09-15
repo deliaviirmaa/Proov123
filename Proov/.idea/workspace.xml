@@ -26,8 +26,8 @@
       <file leaf-file-name="Proov332.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Proov332.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.1551095">
-              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.18613139">
+              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -555,12 +555,12 @@
       <created>1473900053002</created>
       <option name="number" value="Default" />
       <updated>1473900053002</updated>
-      <workItem from="1473900054349" duration="95000" />
+      <workItem from="1473900054349" duration="690000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95000" />
+    <option name="totallyTimeSpent" value="690000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1378" height="735" extended-state="0" />
@@ -600,8 +600,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Proov332.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1551095">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.18613139">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
           <folding />
         </state>
       </provider>

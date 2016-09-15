@@ -3,6 +3,7 @@
  */
 public class Proov332 {
     public static void main(String[] args) {
+        //siia tuleb mingi äge kood
         
     }
 }
